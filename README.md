@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ git clone git@github.com:OCA/maintainer-tools.git
+    $ git clone git@github.com:Fenix-ERP/maintainer-tools.git
     $ cd maintainer-tools
     $ virtualenv env
     $ . env/bin/activate
@@ -13,7 +13,7 @@
 
 Alternatively if using pipx.
 
-    $ pipx install oca-maintainers-tools@git+https://github.com/OCA/maintainer-tools.git
+    $ pipx install oca-maintainers-tools@git+https://github.com/Fenix-ERP/maintainer-tools.git
 
 ## OCA repositories tools
 
@@ -141,7 +141,7 @@ A custom icon can be added using the `--src-icon` argument:
 As a developer, you want to launch the scripts without installing the
 egg.
 
-    $ git clone git@github.com:OCA/maintainer-tools.git
+    $ git clone git@github.com:Fenix-ERP/maintainer-tools.git
     $ cd maintainer-tools
     $ virtualenv env
     $ . env/bin/activate
